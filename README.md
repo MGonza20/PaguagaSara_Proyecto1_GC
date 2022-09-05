@@ -35,8 +35,7 @@ Para lograr esta conversión se multiplicó determinada matriz por el vector de 
 
 ![YIQ-Shader](https://user-images.githubusercontent.com/64711979/188359136-a15ada1d-8762-432f-9293-93e320b3f40c.png)
 
-#### Fun fact: 
-Este espacio de color fue utilizado por el sistema análogo de color NTSC (National Television System Committee). 
+** Fun fact: ** Este espacio de color fue utilizado por el sistema análogo de color NTSC (National Television System Committee). 
 
 ## Shader: Normal
 
@@ -48,13 +47,19 @@ El propósito de este shader fue simular las imperfecciones de una superficie si
 ** Shader basado en ejemplo dado en clase.
 ## Shader: Oompa Loompa
 
-El propósito de este shader fue poder aplicar un cambio de color azul hacia pigmentos de un tono neón amarillo.
+El objetivo de este shader fue poder aplicar un cambio de color azul hacia pigmentos de un tono neón amarillo.
 
 ![OompaLoompa-Shader](https://user-images.githubusercontent.com/64711979/188370221-db641dff-da0b-4988-b380-b8b79ab0bf97.png)
 
 
 ## Shader: Negative
 
-El propósito de este shader fue invertir los colores RGB y dar un efecto de imagen negativa.
+El objetivo de este shader fue dar un efecto de imagen negativa, esto se logró invertiendo los colores RGB.
 
 ![Negative-Shader](https://user-images.githubusercontent.com/64711979/188372495-dcdd06e1-aa5c-44e3-af21-53c502b71990.png)
+
+Para ejecutar el programa solamente es necesario ejecutar el comando a continuación, esperar unos minutos y ver la escena generada en el archivo Escene.bmp.
+
+```bash
+  python Engine3D.py
+```

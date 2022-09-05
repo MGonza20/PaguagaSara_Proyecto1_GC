@@ -1,11 +1,10 @@
- # Proyecto 1 - Software Renderer - Gráficas por computadora
-
-![Escene](https://user-images.githubusercontent.com/64711979/188372728-df472c68-fc6a-4986-b0f2-5c4f35616197.png)
+# Proyecto 1 - Software Renderer - Gráficas por computadora
 
 En el presente proyecto se buscó demostrar los conocimientos adquiridos en lo que ha transcurrido del curso de Gráficas por Computadora mediante renderización de modelos, aplicación de shaders y tranformaciones de los modelos. 
 
 El tema de la escena renderizada fue: Vida Submarina. Se buscó aplicar 6 distintos shaders en los elementos puestos en la escena.  De los cuales se hablará más a continuación.
 
+![Escene](https://user-images.githubusercontent.com/64711979/188372728-df472c68-fc6a-4986-b0f2-5c4f35616197.png)
 
 
 

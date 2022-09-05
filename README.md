@@ -35,7 +35,7 @@ Para lograr esta conversión se multiplicó determinada matriz por el vector de 
 
 ![YIQ-Shader](https://user-images.githubusercontent.com/64711979/188359136-a15ada1d-8762-432f-9293-93e320b3f40c.png)
 
-** Fun fact: ** Este espacio de color fue utilizado por el sistema análogo de color NTSC (National Television System Committee). 
+**Fun fact:** Este espacio de color fue utilizado por el sistema análogo de color NTSC (National Television System Committee). 
 
 ## Shader: Normal
 

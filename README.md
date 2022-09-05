@@ -65,5 +65,3 @@ Para ejecutar el programa solamente es necesario ejecutar el comando a continuac
 ```bash
   python Engine3D.py
 ```
-    
-```

@@ -54,7 +54,10 @@ El objetivo de este shader fue poder aplicar un cambio de color azul hacia pigme
 
 ## Shader: Negative
 
-El objetivo de este shader fue dar un efecto de imagen negativa, esto se logró invertiendo los colores RGB.
+El propósito de este shader fue invertir los colores RGB y dar un efecto de imagen negativa.
+
+![Negative-Shader](https://user-images.githubusercontent.com/64711979/188372495-dcdd06e1-aa5c-44e3-af21-53c502b71990.png)
+
 ## Ejecución del programa
 
 Para ejecutar el programa solamente es necesario ejecutar el comando a continuación, esperar unos minutos y ver la escena generada en el archivo Escene.bmp.
@@ -62,4 +65,5 @@ Para ejecutar el programa solamente es necesario ejecutar el comando a continuac
 ```bash
   python Engine3D.py
 ```
+    
 ```

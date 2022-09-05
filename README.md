@@ -48,7 +48,7 @@ El propósito de este shader fue simular las imperfecciones de una superficie si
 ** Shader basado en ejemplo dado en clase.
 ## Shader: Oompa Loompa
 
-El propósito de este shader fue poder aplicar un cambio de color azul hacia un tono neon amarillo.
+El propósito de este shader fue poder aplicar un cambio de color azul hacia pigmentos de un tono neón amarillo.
 
 ![OompaLoompa-Shader](https://user-images.githubusercontent.com/64711979/188370221-db641dff-da0b-4988-b380-b8b79ab0bf97.png)
 
